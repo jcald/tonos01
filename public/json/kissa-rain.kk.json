@@ -1,0 +1,549 @@
+{
+	"header": {
+		"keySignatures": [
+			{
+				"key": "C",
+				"scale": "major",
+				"ticks": 0
+			}
+		],
+		"meta": [],
+		"name": "Kissa Rain",
+		"ppq": 96,
+		"tempos": [
+			{
+				"bpm": 108,
+				"ticks": 0
+			}
+		],
+		"timeSignatures": [
+			{
+				"ticks": 0,
+				"timeSignature": [4, 4],
+				"measures": 0
+			}
+		]
+	},
+	"tracks": [
+		{
+			"channel": 0,
+			"controlChanges": {
+				"0": [
+					{
+						"number": 0,
+						"ticks": 0,
+						"time": 0,
+						"value": 0
+					}
+				],
+				"7": [
+					{
+						"number": 7,
+						"ticks": 0,
+						"time": 0,
+						"value": 1
+					}
+				],
+				"32": [
+					{
+						"number": 32,
+						"ticks": 0,
+						"time": 0,
+						"value": 0
+					}
+				]
+			},
+			"pitchBends": [],
+			"instrument": {
+				"family": "percussion",
+				"name": "bass drum 1",
+				"number": 0
+			},
+			"name": "Kick",
+			"notes": [
+				{
+					"duration": 0.138889,
+					"durationTicks": 24,
+					"midi": 36,
+					"name": "C2",
+					"ticks": 0,
+					"time": 0,
+					"velocity": 0.7874015748031497
+				},
+				{
+					"duration": 0.13888900000000004,
+					"durationTicks": 24,
+					"midi": 36,
+					"name": "C2",
+					"ticks": 168,
+					"time": 0.9722230000000001,
+					"velocity": 0.7874015748031497
+				},
+				{
+					"duration": 0.13888900000000004,
+					"durationTicks": 24,
+					"midi": 36,
+					"name": "C2",
+					"ticks": 192,
+					"time": 1.111112,
+					"velocity": 0.7874015748031497
+				},
+				{
+					"duration": 0.13888899999999982,
+					"durationTicks": 24,
+					"midi": 36,
+					"name": "C2",
+					"ticks": 384,
+					"time": 2.222224,
+					"velocity": 0.7874015748031497
+				},
+				{
+					"duration": 0.13888899999999982,
+					"durationTicks": 24,
+					"midi": 36,
+					"name": "C2",
+					"ticks": 552,
+					"time": 3.1944470000000003,
+					"velocity": 0.7874015748031497
+				},
+				{
+					"duration": 0.13888900000000026,
+					"durationTicks": 24,
+					"midi": 36,
+					"name": "C2",
+					"ticks": 576,
+					"time": 3.333336,
+					"velocity": 0.7874015748031497
+				},
+				{
+					"duration": 0.13888899999999982,
+					"durationTicks": 24,
+					"midi": 36,
+					"name": "C2",
+					"ticks": 768,
+					"time": 4.444448,
+					"velocity": 0.7874015748031497
+				},
+				{
+					"duration": 0.13888899999999982,
+					"durationTicks": 24,
+					"midi": 36,
+					"name": "C2",
+					"ticks": 936,
+					"time": 5.416671000000001,
+					"velocity": 0.7874015748031497
+				},
+				{
+					"duration": 0.13888899999999982,
+					"durationTicks": 24,
+					"midi": 36,
+					"name": "C2",
+					"ticks": 960,
+					"time": 5.555560000000001,
+					"velocity": 0.7874015748031497
+				},
+				{
+					"duration": 0.1388890000000007,
+					"durationTicks": 24,
+					"midi": 36,
+					"name": "C2",
+					"ticks": 1152,
+					"time": 6.666672,
+					"velocity": 0.7874015748031497
+				},
+				{
+					"duration": 0.13888899999999982,
+					"durationTicks": 24,
+					"midi": 36,
+					"name": "C2",
+					"ticks": 1320,
+					"time": 7.638895000000001,
+					"velocity": 0.7952755905511811
+				},
+				{
+					"duration": 0.13888899999999982,
+					"durationTicks": 24,
+					"midi": 36,
+					"name": "C2",
+					"ticks": 1344,
+					"time": 7.7777840000000005,
+					"velocity": 0.7952755905511811
+				},
+				{
+					"duration": 0.1388890000000007,
+					"durationTicks": 24,
+					"midi": 36,
+					"name": "C2",
+					"ticks": 1536,
+					"time": 8.888896,
+					"velocity": 0.7874015748031497
+				},
+				{
+					"duration": 0.1388890000000007,
+					"durationTicks": 24,
+					"midi": 36,
+					"name": "C2",
+					"ticks": 1704,
+					"time": 9.861119,
+					"velocity": 0.7874015748031497
+				},
+				{
+					"duration": 0.13888899999999893,
+					"durationTicks": 24,
+					"midi": 36,
+					"name": "C2",
+					"ticks": 1728,
+					"time": 10.000008000000001,
+					"velocity": 0.7874015748031497
+				},
+				{
+					"duration": 0.13888899999999893,
+					"durationTicks": 24,
+					"midi": 36,
+					"name": "C2",
+					"ticks": 1920,
+					"time": 11.111120000000001,
+					"velocity": 0.7874015748031497
+				},
+				{
+					"duration": 0.1388890000000007,
+					"durationTicks": 24,
+					"midi": 36,
+					"name": "C2",
+					"ticks": 2088,
+					"time": 12.083343000000001,
+					"velocity": 0.7874015748031497
+				},
+				{
+					"duration": 0.13888899999999893,
+					"durationTicks": 24,
+					"midi": 36,
+					"name": "C2",
+					"ticks": 2112,
+					"time": 12.222232000000002,
+					"velocity": 0.7874015748031497
+				},
+				{
+					"duration": 0.1388890000000007,
+					"durationTicks": 24,
+					"midi": 36,
+					"name": "C2",
+					"ticks": 2304,
+					"time": 13.333344,
+					"velocity": 0.7874015748031497
+				},
+				{
+					"duration": 0.13888899999999893,
+					"durationTicks": 24,
+					"midi": 36,
+					"name": "C2",
+					"ticks": 2472,
+					"time": 14.305567000000002,
+					"velocity": 0.7874015748031497
+				},
+				{
+					"duration": 0.1388890000000007,
+					"durationTicks": 24,
+					"midi": 36,
+					"name": "C2",
+					"ticks": 2496,
+					"time": 14.444456,
+					"velocity": 0.7874015748031497
+				},
+				{
+					"duration": 0.1388890000000007,
+					"durationTicks": 24,
+					"midi": 36,
+					"name": "C2",
+					"ticks": 2688,
+					"time": 15.555568000000001,
+					"velocity": 0.7874015748031497
+				},
+				{
+					"duration": 0.13888900000000248,
+					"durationTicks": 24,
+					"midi": 36,
+					"name": "C2",
+					"ticks": 2856,
+					"time": 16.527791,
+					"velocity": 0.7952755905511811
+				},
+				{
+					"duration": 0.13888899999999893,
+					"durationTicks": 24,
+					"midi": 36,
+					"name": "C2",
+					"ticks": 2880,
+					"time": 16.666680000000003,
+					"velocity": 0.7952755905511811
+				}
+			]
+		},
+		{
+			"channel": 1,
+			"controlChanges": {
+				"0": [
+					{
+						"number": 0,
+						"ticks": 0,
+						"time": 0,
+						"value": 0
+					}
+				],
+				"7": [
+					{
+						"number": 7,
+						"ticks": 0,
+						"time": 0,
+						"value": 1
+					}
+				],
+				"32": [
+					{
+						"number": 32,
+						"ticks": 0,
+						"time": 0,
+						"value": 0
+					}
+				]
+			},
+			"pitchBends": [],
+			"instrument": {
+				"family": "percussion",
+				"name": "hand clap",
+				"number": 0
+			},
+			"name": "Snare",
+			"notes": [
+				{
+					"duration": 0.13888900000000004,
+					"durationTicks": 24,
+					"midi": 39,
+					"name": "D#2",
+					"ticks": 96,
+					"time": 0.555556,
+					"velocity": 0.7874015748031497
+				},
+				{
+					"duration": 0.13888900000000004,
+					"durationTicks": 24,
+					"midi": 39,
+					"name": "D#2",
+					"ticks": 288,
+					"time": 1.666668,
+					"velocity": 0.7874015748031497
+				},
+				{
+					"duration": 0.13888899999999982,
+					"durationTicks": 24,
+					"midi": 39,
+					"name": "D#2",
+					"ticks": 480,
+					"time": 2.7777800000000004,
+					"velocity": 0.7874015748031497
+				},
+				{
+					"duration": 0.13888899999999982,
+					"durationTicks": 24,
+					"midi": 39,
+					"name": "D#2",
+					"ticks": 672,
+					"time": 3.8888920000000002,
+					"velocity": 0.7874015748031497
+				},
+				{
+					"duration": 0.13888899999999982,
+					"durationTicks": 24,
+					"midi": 39,
+					"name": "D#2",
+					"ticks": 864,
+					"time": 5.000004000000001,
+					"velocity": 0.7874015748031497
+				},
+				{
+					"duration": 0.13888899999999982,
+					"durationTicks": 24,
+					"midi": 39,
+					"name": "D#2",
+					"ticks": 1056,
+					"time": 6.111116000000001,
+					"velocity": 0.7874015748031497
+				},
+				{
+					"duration": 0.1388890000000007,
+					"durationTicks": 24,
+					"midi": 39,
+					"name": "D#2",
+					"ticks": 1248,
+					"time": 7.222228,
+					"velocity": 0.7952755905511811
+				},
+				{
+					"duration": 0.13888899999999893,
+					"durationTicks": 24,
+					"midi": 39,
+					"name": "D#2",
+					"ticks": 1440,
+					"time": 8.333340000000002,
+					"velocity": 0.7952755905511811
+				},
+				{
+					"duration": 0.1388890000000007,
+					"durationTicks": 24,
+					"midi": 39,
+					"name": "D#2",
+					"ticks": 1632,
+					"time": 9.444452,
+					"velocity": 0.7874015748031497
+				},
+				{
+					"duration": 0.1388890000000007,
+					"durationTicks": 24,
+					"midi": 39,
+					"name": "D#2",
+					"ticks": 1824,
+					"time": 10.555564,
+					"velocity": 0.7874015748031497
+				},
+				{
+					"duration": 0.1388890000000007,
+					"durationTicks": 24,
+					"midi": 39,
+					"name": "D#2",
+					"ticks": 2016,
+					"time": 11.666676,
+					"velocity": 0.7874015748031497
+				},
+				{
+					"duration": 0.1388890000000007,
+					"durationTicks": 24,
+					"midi": 39,
+					"name": "D#2",
+					"ticks": 2208,
+					"time": 12.777788000000001,
+					"velocity": 0.7874015748031497
+				},
+				{
+					"duration": 0.1388890000000007,
+					"durationTicks": 24,
+					"midi": 39,
+					"name": "D#2",
+					"ticks": 2400,
+					"time": 13.888900000000001,
+					"velocity": 0.7874015748031497
+				},
+				{
+					"duration": 0.13888899999999893,
+					"durationTicks": 24,
+					"midi": 39,
+					"name": "D#2",
+					"ticks": 2592,
+					"time": 15.000012000000002,
+					"velocity": 0.7874015748031497
+				},
+				{
+					"duration": 0.13888900000000248,
+					"durationTicks": 24,
+					"midi": 39,
+					"name": "D#2",
+					"ticks": 2784,
+					"time": 16.111124,
+					"velocity": 0.7952755905511811
+				},
+				{
+					"duration": 0.13888899999999893,
+					"durationTicks": 24,
+					"midi": 39,
+					"name": "D#2",
+					"ticks": 2976,
+					"time": 17.222236000000002,
+					"velocity": 0.7952755905511811
+				}
+			]
+		},
+		{
+			"channel": 2,
+			"controlChanges": {
+				"0": [
+					{
+						"number": 0,
+						"ticks": 0,
+						"time": 0,
+						"value": 0
+					}
+				],
+				"7": [
+					{
+						"number": 7,
+						"ticks": 0,
+						"time": 0,
+						"value": 1
+					}
+				],
+				"32": [
+					{
+						"number": 32,
+						"ticks": 0,
+						"time": 0,
+						"value": 0
+					}
+				]
+			},
+			"pitchBends": [],
+			"instrument": {
+				"family": "percussion",
+				"name": "closed hi hat",
+				"number": 0
+			},
+			"name": "Perc",
+			"notes": [
+				{
+					"duration": 8.888896,
+					"durationTicks": 1536,
+					"midi": 42,
+					"name": "F#2",
+					"ticks": 1536,
+					"time": 8.888896,
+					"velocity": 0.7952755905511811
+				}
+			]
+		},
+		{
+			"channel": 0,
+			"controlChanges": {
+				"0": [
+					{
+						"number": 0,
+						"ticks": 0,
+						"time": 0,
+						"value": 0
+					}
+				],
+				"7": [
+					{
+						"number": 7,
+						"ticks": 0,
+						"time": 0,
+						"value": 1
+					}
+				],
+				"32": [
+					{
+						"number": 32,
+						"ticks": 0,
+						"time": 0,
+						"value": 0
+					}
+				]
+			},
+			"pitchBends": [],
+			"instrument": {
+				"family": "percussion",
+				"name": "crash cymbal 1",
+				"number": 0
+			},
+			"name": "Sample",
+			"notes": []
+		}
+	]
+}
